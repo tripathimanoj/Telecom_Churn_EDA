@@ -2,7 +2,7 @@
 This repository is all about EDA process on a famous dataset called Telecom_Churn Dataset.
 
 # Telecom Customer Churn Analysis
-![churn](https://github.com/data-enthusiast-shubhs/Python_Project/assets/115934788/75dfc32f-a65c-4761-b261-a00341584049)
+![churn](https://github.com/tripathimanoj/Telecom_Churn_EDA/blob/main/customer_churn_image.png)
 
 This project aims to analyze the churn rate of a telecom company, Orange S.A., and identify the factors that contribute to customer churn. The dataset used in this analysis is the Orange Telecom's Churn Dataset, which includes cleaned customer activity data and a churn label indicating whether a customer cancelled their subscription.
 
